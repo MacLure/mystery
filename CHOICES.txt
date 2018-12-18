@@ -3,5 +3,5 @@ CHOICES
 First Choice: __1__
 Second Choice: _1___
 Third Choice: __1__
-Fourth Choice: ____
-Fifth Choice: ____
+Fourth Choice: __1__
+Fifth Choice: __1__
